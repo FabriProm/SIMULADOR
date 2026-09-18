@@ -6,6 +6,11 @@
 > **Todo lo marcado como MEDIDO proviene del panel de proyección en vivo de BSG**,
 > registrado durante la carga del 13 de septiembre de 2026 (jugada de prueba 1).
 > Lo que no está marcado como medido es del manual o de los reportes del Año 10.
+>
+> **⚠️ ACTUALIZADO TRAS EL AÑO 12.** Varias entradas de este archivo fueron corregidas por
+> mediciones posteriores. El registro completo del Año 12 está en
+> `BSG-Ano12-registro-completo.md` y tiene precedencia sobre este documento cuando
+> se contradigan.
 
 ---
 
@@ -113,8 +118,16 @@ maquinaria ($10 M, rechazo −50%, repago 2,8 años), que ataca la causa real.
 trabajador cada una**. Aplicadas a las dos plantas, el ahorro de mano de obra
 **superó el costo**: EPS de $2,80 a $2,83 e imagen de 67 a 71.
 
-**Pero no todo puntúa:** agregar empaque reciclado y código de proveedores costó
-$1,5 M y la imagen no se movió ni un punto (71 → 71). Se revirtieron.
+**CORREGIDO EN EL AÑO 12.** Esta medición estaba diluida: se probaron las dos juntas y
+la imagen promedia tres años, así que el efecto del primer año entra a un tercio. Medidas
+por separado en el A12:
+
+| Iniciativa | Costo en EPS | Puntos de imagen |
+|---|---|---|
+| **Eficiencia energética $500** | −$0,01 | **+2** ← nunca se había probado |
+| **Código de proveedores** | −$0,05 | **+1** |
+| Empaque reciclado | −$0,05 | 0 |
+| Contribuciones benéficas $3 M | −$0,22 | 0 |
 
 ### 2.6 El estado de las pantallas cambia entre sesiones
 
@@ -222,7 +235,7 @@ cambia la demanda.
 | Calidad mínima marca privada | 3,0 estrellas | Requisito de la licitación |
 | Precio marca privada | ≥ $10 por debajo del mayorista promedio regional | Requisito |
 | Índice de celebridades | satura en **300** por región | Más allá no suma |
-| Mejoras de equipo | 1 por año, **2 en toda la vida útil** | Ya se usó una (Mejora A en Asia) |
+| Mejoras de equipo | **Una vez por opción y por planta** (no "2 por vida útil") | Usada solo la A de Asia. **Quedan 7 comprables** — corregido en el A12 |
 | Patrimonio mínimo | $100 M | Proyectado $255,7 M |
 
 ---
@@ -313,8 +326,8 @@ empresas**. Costo en el Año 11: **cero**.
 | Comedor y guardería | **Sí** — se paga sola |
 | Seguridad e iluminación | **Sí** — se paga sola |
 | Formación ética | **Sí** — el punto de imagen más barato |
-| Empaque reciclado | No — probado, $1,2 M y cero puntos |
-| Código de proveedores | No — probado, cero puntos |
+| Empaque reciclado | No — confirmado en el A12: cero puntos |
+| Código de proveedores | No — **el A12 mostró que sí da +1 punto por $0,05** |
 | Eficiencia energética / donaciones | $0 |
 
 Desembolso total $12.700 mil ($1,45 por par vendido). Imagen 67 → 71.
@@ -378,7 +391,7 @@ Ratio de impago **4,77** · cobertura 10,27 · caja al cierre $19.501 mil.
 | Mejora A en Asia ($10 M, ya pagada) | Año 12 | Rechazo 10,1% → ~5%. Ahorro $3.571 mil/año, permanente |
 | Billy Eyelash + Taylor Sluggish | Año 12 | Índice 170/170/135/130 contra cero de los rivales. Arrancan pagos de $4.700 mil/año |
 | Comedor, guardería, seguridad | Ya rinde | +200 pares/trabajador. El reloj de la imagen arrancó |
-| Segunda mejora de equipo | Disponible | Queda **una sola** en la vida útil. Mejor candidata: **Opción C en Asia** (+1 estrella S/Q, $19,2 M, repago 3,3 años) |
+| Mejoras de equipo | Disponible | **Quedan 7**, no una. Mejores relaciones medidas en el A12: **C en Asia 29,8%**, **B en ambas 29,1%**, **A en N.A. 26,9%**. Comprarlas temprano: rinden cero el año de la compra |
 | Reemplazo total de maquinaria | **Año 15** | Toda se compró en el Año 5. Cuatro años para juntar |
 
 ### Agenda de carga del Año 12
