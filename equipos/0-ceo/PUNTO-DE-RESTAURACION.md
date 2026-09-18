@@ -17,8 +17,6 @@ Si un cambio de la reunión no da bien, se vuelve a los valores de la columna **
 
 ## Los números de referencia
 
-Cualquier cambio se juzga contra esto. Si baja alguno, hay que saber por qué.
-
 | Indicador | Valor guardado | Meta del Año 12 |
 |---|---|---|
 | **Ganancia por acción** | **$3,08** | $3,00 |
@@ -36,158 +34,157 @@ Cualquier cambio se juzga contra esto. Si baja alguno, hay que saber por qué.
 
 ---
 
-## Estado pantalla por pantalla
+## Pantalla 1 — Remuneración y formación
 
-La columna **ANTES** es como venía del Año 11. La columna **AHORA** es lo que está guardado.
-Las filas sin resaltar no se tocaron: en esas, ANTES y AHORA son lo mismo.
+| Campo | ANTES | **AHORA** | Por qué |
+|---|---|---|---|
+| **Salario base Asia** | +5% | **+2%** | Se probaron +1%, +2%, +3% y +5%. El +2% dio un centavo más de ganancia por acción que el +5% y el sueldo queda igual por encima del mínimo legal de $12.000. Arriba del 3% el costo extra ya no se recupera en productividad |
+| Salario base Norteamérica | +1% | +1% | Es la planta con la productividad más alta de la industria pagando por debajo del promedio. No hay nada que arreglar |
+| Incentivo por par N.A. / Asia | $1,00 / $0,50 | $1,00 / $0,50 | Se midió subirlo a $0,75 y bajarlo a $0,25: la tasa de fallas se movió apenas 0,6 puntos. El rechazo es un problema de maquinaria, no de motivación |
+| Prestaciones N.A. / Asia | $3.007 / $1.536 | $3.007 / $1.536 | Sin cambios |
+| Formación N.A. / Asia | $600 / $600 | $600 / $600 | Se probó a $400, $1.200 y $2.000: todos iguales o peores. $600 es el punto donde deja de rendir |
+| Supervisión N.A. / Asia | 40:1 / 40:1 | 40:1 / 40:1 | Pasar a 50:1 dio cero de ganancia y agrega riesgo de calidad |
+| Remuneración supervisores | 0% / 0% | 0% / 0% | Sin cambios |
 
-### Pantalla 1 — Remuneración y formación
+---
 
-| Campo | ANTES | **AHORA** |
-|---|---|---|
-| Salario base Norteamérica | +1% | +1% |
-| **Salario base Asia** | +5% | **+2%** |
-| Incentivo por par N.A. / Asia | $1,00 / $0,50 | $1,00 / $0,50 |
-| Prestaciones N.A. / Asia | $3.007 / $1.536 | $3.007 / $1.536 |
-| Formación N.A. / Asia | $600 / $600 | $600 / $600 |
-| Supervisión N.A. / Asia | 40:1 / 40:1 | 40:1 / 40:1 |
-| Remuneración supervisores | 0% / 0% | 0% / 0% |
+## Pantalla 2 — Producción de marca
 
-### Pantalla 2 — Producción de marca
+| Campo | ANTES | **AHORA** | Por qué |
+|---|---|---|---|
+| **Material superior N.A.** | 32% | **40%** | Sube la calidad de 4,0 a 4,4 estrellas. En el Año 11 la industria promedió 4,3 y nosotros 4,0: quedamos últimos en pedidos recibidos justamente por esto |
+| Material superior Asia | 54% | 54% | Se bajó a 40% para ahorrar y se devolvió: el 54% vale un punto de imagen por 8 centavos de ganancia, y ese punto hacía falta |
+| **Modelos N.A. y Asia** | 200 | **250** | La industria ofreció 231 modelos y nosotros 200 — un 13% menos. Encarece la preparación de máquinas de $4,5 a $6,0 millones por planta, pero la variedad es el tercer factor de compra más importante |
+| **Estilo por modelo** | $10 mil | **$20 mil** | Es lo que cerró la meta de imagen: subió 3 puntos. Cuesta 17 centavos de ganancia por acción. Se probó a $16 mil, $18 mil, $22 mil y $28 mil; $20 mil es el punto óptimo |
+| **TQM Norteamérica** | $1,00 | **$1,30** | Acompaña la suba de material superior para sostener las 4,4 estrellas |
+| **TQM Asia** | $0,90 | **$0,80** | Después de la mejora de maquinaria del Año 11, Asia tiene la tasa de fallas más baja de las dos plantas. No hace falta gastar lo mismo |
+| **Pares a fabricar N.A.** | 3.891 | **4.580** | Absorbe la capacidad que se liberó al achicar la marca privada. Los costos fijos de la planta se reparten entre más pares, así que cada par sale más barato |
+| **Pares a fabricar Asia** | 4.139 | **4.210** | Ídem. Con esto las dos plantas quedan exactamente llenas: 4.800 pares brutos cada una |
+| **Precio estimado material estándar** | $6,42 | **$6,22** | El precio de los materiales depende de cuánto produce la industria. Con la sobreoferta, la utilización cae de 112% a cerca de 89%, y por debajo del 95% los materiales bajan |
+| **Precio estimado material superior** | $12,12 | **$11,82** | Ídem |
 
-| Campo | ANTES | **AHORA** |
-|---|---|---|
-| **Material superior Norteamérica** | 32% | **40%** |
-| Material superior Asia | 54% | 54% |
-| **Modelos Norteamérica** | 200 | **250** |
-| **Modelos Asia** | 200 | **250** |
-| **Estilo por modelo N.A.** | $10 mil | **$20 mil** |
-| **Estilo por modelo Asia** | $10 mil | **$20 mil** |
-| **TQM Norteamérica** | $1,00 | **$1,30** |
-| **TQM Asia** | $0,90 | **$0,80** |
-| **Pares a fabricar Norteamérica** | 3.891 | **4.580** |
-| **Pares a fabricar Asia** | 4.139 | **4.210** |
-| **Precio estimado material estándar** | $6,42 | **$6,22** |
-| **Precio estimado material superior** | $12,12 | **$11,82** |
+---
 
-### Pantalla 3 — Instalaciones de producción
+## Pantalla 3 — Instalaciones de producción
 
-| Campo | ANTES | **AHORA** |
-|---|---|---|
-| Compra de equipo nuevo / reacondicionado | 0 | 0 |
-| Venta de equipo | 0 | 0 |
-| Opción A (rechazo) N.A. / Asia | No / **Hecho** | No / **Hecho** |
-| Opciones B, C y D en ambas plantas | No | No |
-| Construcción de espacio nuevo | 0 | 0 |
+| Campo | ANTES | **AHORA** | Por qué |
+|---|---|---|---|
+| Compra de equipo nuevo / reacondicionado | 0 | 0 | La capacidad actual alcanza para la demanda proyectada del año, y la industria entra con 12,7% de sobreoferta |
+| Venta de equipo | 0 | 0 | Sin cambios |
+| Opción A (fallas) Asia | **Hecho** | **Hecho** | Comprada en el Año 11. Bajó la tasa de fallas de Asia de 10,1% a 5,0% |
+| Opciones A, B, C y D restantes | No | No | **Se instalaron las cuatro mejores por $42 millones y no cambió un solo número del panel.** Las mejoras rinden recién al año siguiente de comprarlas. Se sacaron y se recuperó la caja |
+| Construcción de espacio nuevo | 0 | 0 | La obra civil tarda un año entero: no resuelve nada del Año 12 |
 
-**Nada cambió acá. Desembolso de capital: $0.**
+> **Desembolso de capital de esta pantalla: $0.** Es la única decisión del set que no tiene
+> una medición que la respalde en el largo plazo — seguimos empatados últimos en capacidad.
 
-### Pantalla 4 — Distribución y almacén
+---
 
-| Campo | ANTES | **AHORA** |
-|---|---|---|
-| Planta N.A. → almacén N.A. | 2.377 | 2.377 |
-| Planta N.A. → almacén Europa-África | 1.242 | 1.242 |
-| Planta Asia → almacén Europa-África | 700 | 700 |
-| Planta Asia → almacén Asia-Pacífico | 1.560 | 1.560 |
-| Planta Asia → almacén Latinoamérica | 1.461 | 1.461 |
-| Liquidación de inventario viejo | 0% | 0% |
+## Pantalla 4 — Distribución y almacén
 
-**Nada cambió acá.**
+| Campo | ANTES | **AHORA** | Por qué |
+|---|---|---|---|
+| Planta N.A. → almacén N.A. | 2.377 | 2.377 | Se probó a 2.600 y se revirtió: no mejoró nada |
+| Planta N.A. → almacén Europa-África | 1.242 | 1.242 | Se probó a 1.646 y se revirtió |
+| Planta Asia → almacén Europa-África | 700 | 700 | Sin cambios |
+| Planta Asia → almacén Asia-Pacífico | 1.560 | 1.560 | Se probó a 1.600 y se revirtió |
+| Planta Asia → almacén Latinoamérica | 1.461 | 1.461 | Se probó a 1.687 y se revirtió |
+| Liquidación de inventario viejo | 0% | 0% | Con el excedente por región cerca de cero, liquidar solo resigna margen |
 
-### Pantalla 5 — Marketing en internet
+> Despachar los pares que quedan en planta bajó la ganancia por acción de $3,08 a $3,00 y
+> la imagen de 72 a 70. Despachar más no crea demanda: solo agrega costo de almacén.
 
-| Campo | ANTES | **AHORA** |
-|---|---|---|
-| **Precio Norteamérica** | $69,00 | **$72,00** |
-| **Precio Europa-África** | $77,00 | **$80,00** |
-| **Precio Asia-Pacífico** | $69,00 | **$72,00** |
-| **Precio Latinoamérica** | $77,00 | **$80,00** |
-| Buscadores N.A. / E-A | $6.500 / $4.500 | $6.500 / $4.500 |
-| **Buscadores Asia-Pacífico** | $4.000 | **$4.500** |
-| **Buscadores Latinoamérica** | $3.500 | **$4.500** |
-| Envío gratis (las cuatro) | No | No |
+---
 
-**Supuestos de industria en esta pantalla:**
+## Pantalla 5 — Marketing en internet
 
-| | ANTES | **AHORA** |
-|---|---|---|
-| Precio online | 69,63 / 75,00 / 69,75 / 75,00 | **68,63 / 74,00 / 68,75 / 74,00** |
-| Buscadores | 4.906 / 4.281 / 3.906 / 3.844 | **5.406 / 4.781 / 4.406 / 4.344** |
+| Campo | ANTES | **AHORA** | Por qué |
+|---|---|---|---|
+| **Precio Norteamérica y Asia-Pacífico** | $69,00 | **$72,00** | Se midió de $68 a $78. Cada dólar suma entre 2 y 3 centavos de ganancia por acción. A $72 se captura la mayor parte de la mejora sin alejarse tanto del promedio de la industria como para perder volumen |
+| **Precio Europa-África y Latinoamérica** | $77,00 | **$80,00** | Ídem. Además mantiene la diferencia obligatoria del 40% sobre el precio mayorista: por debajo de eso las tiendas dejan de pedirnos mercadería |
+| **Buscadores Asia-Pacífico** | $4.000 | **$4.500** | Quedábamos por debajo del promedio de industria calibrado ($4.406). Es el factor que atrae tráfico al sitio propio |
+| **Buscadores Latinoamérica** | $3.500 | **$4.500** | Ídem: el promedio calibrado es $4.344 y estábamos muy por debajo |
+| Buscadores N.A. / Europa-África | $6.500 / $4.500 | $6.500 / $4.500 | Ya estaban por encima del promedio de la industria |
+| Envío gratis (las cuatro) | No | No | El cliente paga $12,50 de envío y eso entra como ingreso. Absorberlo se lleva puesto más de la mitad del margen del canal |
+| **Supuesto: precio de industria** | 69,63 / 75,00 / 69,75 / 75,00 | **68,63 / 74,00 / 68,75 / 74,00** | Con 12,7% de sobreoferta lo esperable es que la industria baje precios alrededor de un dólar |
+| **Supuesto: buscadores de industria** | 4.906 / 4.281 / 3.906 / 3.844 | **5.406 / 4.781 / 4.406 / 4.344** | Con sobreoferta, la pelea se va del precio al gasto en marketing |
 
-### Pantalla 6 — Marketing mayorista
+---
 
-| Campo | ANTES | **AHORA** |
-|---|---|---|
-| **Precio Norteamérica** | $49,00 | **$50,00** |
-| **Precio Europa-África** | $55,00 | **$56,00** |
-| **Precio Asia-Pacífico** | $49,00 | **$50,50** |
-| **Precio Latinoamérica** | $55,00 | **$56,00** |
-| **Publicidad (las cuatro)** | 10.000 / 9.000 / 8.000 / 6.500 | **10.500 / 9.500 / 8.500 / 7.000** |
-| **Rebaja por correo (las cuatro)** | $4,00 | **$5,00** |
-| **Plazo de entrega (las cuatro)** | 3 semanas | **2 semanas** |
-| **Apoyo por local N.A. / E-A** | $4.000 | **$4.750** |
-| **Apoyo por local A-P / L-A** | $2.750 | **$3.500** |
+## Pantalla 6 — Marketing mayorista
 
-**Supuestos de industria en esta pantalla:**
+| Campo | ANTES | **AHORA** | Por qué |
+|---|---|---|---|
+| **Precio Norteamérica** | $49,00 | **$50,00** | A $49 el simulador mostraba **déficit en las cuatro regiones**: más demanda que producción. Vender lo que no se puede fabricar no gana mercado, regala margen. Cada dólar vale 21 centavos de ganancia por acción — la palanca más fuerte del juego |
+| **Precio Europa-África** | $55,00 | **$56,00** | Tenía el déficit más grande de las cuatro (−141 mil pares) |
+| **Precio Asia-Pacífico** | $49,00 | **$50,50** | Es la región con el mejor margen operativo de las cuatro (24,4%), así que soporta un poco más |
+| **Precio Latinoamérica** | $55,00 | **$56,00** | Déficit de −118 mil pares |
+| **Publicidad (las cuatro)** | 10.000 / 9.000 / 8.000 / 6.500 | **10.500 / 9.500 / 8.500 / 7.000** | Estábamos por debajo del promedio de la industria en las cuatro regiones. Es uno de los factores donde perdimos el Año 11 |
+| **Rebaja por correo (las cuatro)** | $4,00 | **$5,00** | Estábamos 17% por debajo del promedio de la industria ($4,80). El desplegable solo admite dólares enteros, así que $5 es el salto mínimo |
+| **Plazo de entrega (las cuatro)** | 3 semanas | **2 semanas** | Sube el atractivo para las tiendas y ayuda a reconstruir la red, que se cayó 25% en el Año 11. Cuesta $0,75 más por par y obliga a más stock de seguridad |
+| **Apoyo por local N.A. y Europa-África** | $4.000 | **$4.750** | Las tiendas que llevan nuestra marca cayeron de 1.000 a 880 y de 1.000 a 833. El apoyo al local es uno de los cuatro factores que la reconstruyen, y se cobra al año siguiente |
+| **Apoyo por local Asia-Pacífico y Latinoamérica** | $2.750 | **$3.500** | Ídem: cayeron de 700 a 610 y de 700 a 630. El campo va de 250 en 250 |
+| **Supuesto: calidad de industria** | 4,3 / 4,3 / 4,2 / 4,2 | **4,5 / 4,5 / 4,4 / 4,4** | Con sobreoferta, todos persiguen calidad en vez de bajar precio |
+| **Supuesto: modelos de industria** | 231 | **251** | Ídem, con la variedad |
+| **Supuesto: precio de industria** | 49,63 / 54,63 / 49,63 / 54,63 | **48,63 / 53,63 / 48,63 / 53,63** | Un dólar menos por la sobreoferta |
+| **Supuesto: publicidad de industria** | 10.563 / 10.000 / 9.063 / 8.250 | **11.063 / 10.500 / 9.563 / 8.750** | +$500: todos empujan un poco más |
+| **Supuesto: rebaja de industria** | $4,80 | **$5,20** | Ídem |
+| **Supuesto: entrega de industria** | 3,0 semanas | **2,8 semanas** | Ídem |
+| **Supuesto: apoyo por local de industria** | 4.281 / 4.281 / 3.063 / 3.156 | **4.481 / 4.481 / 3.263 / 3.356** | Ídem |
 
-| | ANTES | **AHORA** |
-|---|---|---|
-| Calidad S/Q | 4,3 / 4,3 / 4,2 / 4,2 | **4,5 / 4,5 / 4,4 / 4,4** |
-| Modelos | 231 en las cuatro | **251 en las cuatro** |
-| Precio mayorista | 49,63 / 54,63 / 49,63 / 54,63 | **48,63 / 53,63 / 48,63 / 53,63** |
-| Publicidad | 10.563 / 10.000 / 9.063 / 8.250 | **11.063 / 10.500 / 9.563 / 8.750** |
-| Rebaja | $4,80 | **$5,20** |
-| Plazo de entrega | 3,0 semanas | **2,8 semanas** |
-| Apoyo por local | 4.281 / 4.281 / 3.063 / 3.156 | **4.481 / 4.481 / 3.263 / 3.356** |
+---
 
-### Pantalla 7 — Marca privada
+## Pantalla 7 — Marca privada
 
-| Campo | ANTES | **AHORA** |
-|---|---|---|
-| **Planta N.A. → mercado Norteamérica** | 454 | **110** |
-| **Planta N.A. → mercado Europa-África** | 455 | **110** |
-| **Planta Asia → mercado Asia-Pacífico** | 330 | **480** |
-| **Planta Asia → mercado Latinoamérica** | 331 | **110** |
-| Precio de oferta | $31 / $37 / $31 / $37 | $31 / $37 / $31 / $37 |
-| Incorporar en proyecciones | Sí en las cuatro | Sí en las cuatro |
-| Material superior N.A. / Asia | 16% / 26% | 16% / 26% |
-| Modelos | 100 | 100 |
+| Campo | ANTES | **AHORA** | Por qué |
+|---|---|---|---|
+| **Planta N.A. → mercado Norteamérica** | 454 | **110** | La marca propia deja $8,08 por par en Norteamérica contra $3,92 de la privada. Se corre capacidad hacia lo que rinde más, dejando lo mínimo para no perder presencia en el mercado |
+| **Planta N.A. → mercado Europa-África** | 455 | **110** | Es el peor margen de marca privada de las cuatro: $2,35 por par |
+| **Planta Asia → mercado Asia-Pacífico** | 330 | **480** | Es la única región donde la marca privada rinde bien: $7,98 por par, casi lo mismo que la marca propia |
+| **Planta Asia → mercado Latinoamérica** | 331 | **110** | $3,47 por par. Se deja el mínimo |
+| Precio de oferta (las cuatro) | $31 / $37 / $31 / $37 | $31 / $37 / $31 / $37 | Con estos precios ganamos las cuatro licitaciones del Año 11. Subirlos $2 vale 6 centavos de ganancia, pero perder un contrato con la planta llena cuesta bastante más |
+| Incorporar en proyecciones | Sí en las cuatro | Sí en las cuatro | El pronóstico asume que ganamos las cuatro licitaciones, como pasó el año anterior |
+| Material superior N.A. / Asia | 16% / 26% | 16% / 26% | Alcanza para cumplir el mínimo de 3,0 estrellas que exige el comprador |
+| Modelos | 100 | 100 | Es el requisito del comprador, no una decisión nuestra |
 
-> **Verificá en pantalla las cuatro casillas de "incorporar los resultados previstos".**
-> Se resetean solas a "No" cuando un envío pasa por cero, y sacan la facturación entera
-> del canal del pronóstico sin avisar.
+> **Verificá las cuatro casillas de "incorporar los resultados previstos".** Se resetean
+> solas a "No" cuando un envío pasa por cero, y sacan la facturación entera del canal del
+> pronóstico sin avisar.
 
-### Pantalla 8 — Patrocinios de famosos
+---
 
-| Campo | ANTES | **AHORA** |
-|---|---|---|
-| Las once ofertas | $0 | $0 |
-| Tope de gasto | $0 | $0 |
+## Pantalla 8 — Patrocinios de famosos
 
-**Nada cambió acá.** Billy Eyelash y Taylor Sluggish siguen bajo contrato del Año 11.
+| Campo | ANTES | **AHORA** | Por qué |
+|---|---|---|---|
+| Las once ofertas | $0 | $0 | Ya tenemos a Billy Eyelash y Taylor Sluggish del Año 11. Nuestro índice combinado es 170/170/135/130 contra un promedio de industria de 61/62/64/61: casi tres veces más. Sumar una tercera no mueve la aguja |
+| Tope de gasto | $0 | $0 | En el Año 11 pagamos unos $900 mil de más por ofertar sin saber el precio de despeje. Ahora sabemos que se despeja entre $500 y $3.500 |
 
-### Pantalla 9 — Ciudadanía empresarial
+---
 
-| Campo | ANTES | **AHORA** |
-|---|---|---|
-| Comedor y guardería | Continúa | Continúa |
-| Ventilación, iluminación y seguridad | Continúa | Continúa |
-| Formación ética | Sí | Sí |
-| **Eficiencia energética** | $0 | **$500** |
-| **Código de conducta de proveedores** | No | **Sí** |
-| Empaque reciclado | No | No |
-| Contribuciones benéficas | $0 | $0 |
+## Pantalla 9 — Ciudadanía empresarial
 
-### Pantalla 10 — Finanzas y tesorería
+| Campo | ANTES | **AHORA** | Por qué |
+|---|---|---|---|
+| **Eficiencia energética** | $0 | **$500** | Medido por separado: **+2 puntos de imagen por 1 centavo** de ganancia por acción. Es la compra más barata de todo el juego y nunca se había probado antes |
+| **Código de conducta de proveedores** | No | **Sí** | Medido: **+1 punto de imagen por 5 centavos**. Con la imagen a 4 puntos de la meta, valía la pena |
+| Comedor y guardería | Continúa | Continúa | Da +100 pares de productividad por trabajador en cada planta. El ahorro de mano de obra supera el costo: se paga sola |
+| Ventilación, iluminación y seguridad | Continúa | Continúa | Ídem: otros +100 pares por trabajador |
+| Formación ética | Sí | Sí | Es el punto de imagen más barato de los que ya estaban activos |
+| Empaque reciclado | No | No | Medido: cuesta 5 centavos de ganancia por acción y da **cero** puntos de imagen |
+| Contribuciones benéficas | $0 | $0 | Medido con $3 millones: costó 22 centavos de ganancia por acción y **no movió la imagen ni un punto** |
 
-| Campo | ANTES | **AHORA** |
-|---|---|---|
-| Préstamo a 1, 5 y 10 años | $0 | $0 |
-| Emisión de acciones | 0 | 0 |
-| **Recompra de acciones** | 0 | **450 mil** |
-| Pago anticipado de deuda | Nada | Nada |
-| **Dividendo por acción** | $0,00 | **$1,50** |
+---
+
+## Pantalla 10 — Finanzas y tesorería
+
+| Campo | ANTES | **AHORA** | Por qué |
+|---|---|---|---|
+| **Recompra de acciones** | 0 | **450 mil** (el máximo) | Al haber menos acciones en circulación, la misma utilidad da más ganancia por acción. Sumó **7 centavos y 0,6 puntos de rentabilidad el mismo día**, por $15,5 millones. Es de lo poco que paga en el ejercicio en curso |
+| **Dividendo por acción** | $0,00 | **$1,50** | Se midió con $0, $0,50 y $1,00: **el ratio de crédito no se mueve**. Y al reducir el capital propio mejora la rentabilidad sobre el capital — de $1,00 a $1,50 subió el ROE de 22,8% a 23,2%. El Año 11 pagó $1,00 |
+| Préstamo a 1, 5 y 10 años | $0 | $0 | Hay caja suficiente. Tomar deuda castigaría el ratio de crédito dos veces: por el capital y por la amortización |
+| Emisión de acciones | 0 | 0 | Diluye la ganancia por acción y la rentabilidad, que son dos de los cinco indicadores |
+| Pago anticipado de deuda | Nada | Nada | Se probó prepagar $12 millones al 8,2% y dio **cero** efecto en la ganancia del año |
 
 ---
 
