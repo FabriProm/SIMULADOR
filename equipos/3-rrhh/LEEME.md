@@ -48,23 +48,11 @@ Estamos a 22 pares del techo de la industria, pagando menos que el promedio.
 mismo. Eso es lo que llevó el costo laboral por par de Norteamérica a $8,57 contra $8,71
 de promedio de la industria.
 
-## Lo que ya se midió — no hace falta volver a probarlo
+## Una mecánica que conviene tener clara
 
-Durante los Años 11 y 12 se probaron casi todas las palancas de esta pantalla. Resultados:
-
-| Cambio probado | Resultado |
-|---|---|
-| Incentivo por par de $0,50 a $0,75 | Rechazo bajó solo 0,3 puntos |
-| Incentivo por par a $0,25 | Rechazo subió 0,6 puntos |
-| Formación de $600 a $1.200 | EPS −$0,01 |
-| Formación a $2.000 | EPS −$0,04 |
-| Formación a $400 | EPS +$0,00 (igual) |
-| Supervisión de 40:1 a 50:1 | **$0,00** de ganancia |
-| Salario base Asia de +5% a +2% | EPS +$0,01 |
-
-**La conclusión más importante:** la tasa de rechazo **no responde al incentivo por par**.
-Medio dólar la mueve apenas 0,6 puntos. **Es un problema de maquinaria, no de motivación** —
-y se resolvió comprando la mejora de equipo (el rechazo de Asia pasó de 10,1% a 5,0%).
+Durante la preparación del Año 11 se probó subir y bajar el **incentivo por par** en
+Asia para atacar la tasa de rechazo. El resultado: medio dólar por par movió la tasa
+apenas 0,6 puntos. **El rechazo no es un problema de motivación, es de maquinaria.**
 
 ## La mecánica que explica por qué tu palanca es chica
 
@@ -89,6 +77,22 @@ dan **+100 pares de productividad por trabajador cada una**:
 Las dos están activas y **se pagan solas**: el ahorro de mano de obra supera el costo.
 Son técnicamente de RSE pero el efecto es tuyo — vale que las defiendas si alguien
 propone recortarlas.
+
+## Las decisiones concretas de mañana
+
+### Pantalla 1 — Remuneración y formación
+
+| Campo | Norteamérica | Asia-Pacífico |
+|---|---|---|
+| Salario base (% de variación) | +1% | +5% |
+| Incentivo por par no rechazado | $1,00 | $0,50 |
+| Prestaciones complementarias | $3.007 | $1.536 |
+| Formación en buenas prácticas | $600 | $600 |
+| Ratio de supervisión | 40:1 | 40:1 |
+| Remuneración de supervisores | 0% | 0% |
+
+Salarios mínimos: **$34.000 en Norteamérica y $12.000 en Asia**. Supervisores: $60.000 y
+$25.000. Estamos cerca del piso en las dos plantas.
 
 ## Qué leer
 

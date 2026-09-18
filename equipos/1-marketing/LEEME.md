@@ -65,6 +65,35 @@ Pero pagamos de más al firmar: Billy Eyelash salió $3.500 cuando la segunda of
 $2.799, y Taylor Sluggish $1.200 contra $1.000. **~$900 mil de sobrepago.** Si hay que
 ofertar de nuevo, el precio de despeje de esta industria está entre $500 y $3.000.
 
+## Las decisiones concretas de mañana
+
+Estos son los campos que vas a tener que defender, con el valor que está cargado hoy
+(viene arrastrado del Año 11).
+
+### Pantalla 6 — Marketing mayorista
+
+| Campo | N.A. | E-A | A-P | L-A |
+|---|---|---|---|---|
+| Precio al detallista | $49,00 | $55,00 | $49,00 | $55,00 |
+| Publicidad de marca | $10.000 | $9.000 | $8.000 | $6.500 |
+| Rebaja por correo | $4,00 | $4,00 | $4,00 | $4,00 |
+| Plazo de entrega | 3 sem | 3 sem | 3 sem | 3 sem |
+| Apoyo por local | $4.000 | $4.000 | $2.750 | $2.750 |
+
+### Pantalla 5 — Marketing en internet
+
+| Campo | N.A. | E-A | A-P | L-A |
+|---|---|---|---|---|
+| Precio online | $69,00 | $77,00 | $69,00 | $77,00 |
+| Publicidad en buscadores | $6.500 | $4.500 | $4.000 | $3.500 |
+| Envío gratuito | No | No | No | No |
+
+### Pantalla 8 — Patrocinios de famosos
+
+Las once ofertas están en $0. Billy Eyelash y Taylor Sluggish ya están bajo contrato
+desde el Año 11 y **empiezan a cobrarse ahora** ($4,7 M al año). La decisión es si
+ofertar por alguno más.
+
 ## Qué leer
 
 | Archivo | Qué mirar |

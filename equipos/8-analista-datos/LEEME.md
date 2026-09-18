@@ -27,9 +27,6 @@ del ±5% del previsto).
 
 **El EPS del Año 11 no falló por operaciones. Falló porque el pronóstico estaba descalibrado.**
 
-En el Año 12 pasó lo mismo al abrir: el panel mostraba $3,00. Calibrar los supuestos **sin
-tocar una sola decisión real** lo bajó a **$2,52**. Una diferencia de $0,48 — el 16%.
-
 ## El riesgo asimétrico
 
 Si cargás supuestos pesimistas, el pronóstico te dice que estás perdiendo participación y
@@ -67,29 +64,24 @@ El informe de industria dice para el Año 12:
 La industria pasó de 64.000 a 69.500 de capacidad instalada. En el Año 11 había escasez;
 ahora sobra producto.
 
-**Pero ojo con la conclusión fácil.** En el Año 12 se midió que con sobreoferta, comprar
-cuota salió **EPS-neutro**: $10 M extra de marketing movieron 1,6 puntos de cuota y $0,00
-de EPS. La sobreoferta no obligó a bajar precios — obligó a defender margen.
+**Pero ojo con la conclusión fácil.** En el Año 11, con escasez, la industria **no bajó
+precios**: C fue a $55, A a $51, F se quedó en $48. Esta industria no ha sido agresiva en
+precio hasta ahora. Que haya sobreoferta no garantiza que eso cambie — estimarlo es
+exactamente tu trabajo.
 
-Y en el Año 11, con escasez, la industria **no bajó precios**: C fue a $55, A a $51,
-F se quedó en $48. Esta industria no es agresiva en precio.
+## Las decisiones concretas de mañana
 
-## Cómo se calibró en el Año 12 (para que tengas la referencia)
+### Las 10 casillas de supuestos competitivos
 
-| Variable | Movimiento aplicado | Razonamiento |
-|---|---|---|
-| Precio mayorista | **−$1,00** | Sobreoferta |
-| Precio internet | **−$1,00** | ídem |
-| Calidad S/Q | **+0,2** | Con sobreoferta todos persiguen calidad |
-| Modelos | **+20** | ídem |
-| Publicidad | **+$500** | ídem |
-| Buscadores | **+$500** | ídem |
-| Rebaja | **+$0,40** | ídem |
-| Entrega | **−0,2 semanas** | ídem |
-| Apoyo al minorista | **+$200** | ídem |
+Están al pie de las pantallas 5 y 6, y vienen precargadas con los promedios **reales**
+del Año 11 (la tabla de más arriba).
 
-Es una hipótesis, no una verdad. Verificala contra lo que muestre el reporte de
-inteligencia competitiva.
+Siete se cargan en la pantalla 6 (mayorista): calidad S/Q, modelos, precio, publicidad,
+rebaja, plazo de entrega y apoyo al minorista.
+Tres en la pantalla 5 (internet): precio online, publicidad en buscadores y envío gratis.
+
+**Tu entregable es un número por casilla, por región — 40 valores — con el razonamiento
+de cuánto se mueve cada uno respecto del Año 11.**
 
 ## Qué leer
 
@@ -112,6 +104,6 @@ inteligencia competitiva.
 
 Cuando el equipo abra el simulador y vea el EPS proyectado, **ese número probablemente
 esté inflado** por supuestos blandos. Tu primera intervención es decir cuál es el punto
-de partida honesto. En el Año 12 eso significó corregir $3,00 a $2,52 antes de empezar.
+de partida honesto, antes de que nadie empiece a discutir decisiones.
 
 Nadie más en el equipo puede hacer eso.

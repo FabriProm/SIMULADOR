@@ -11,12 +11,10 @@ estratégico más grande que tiene la empresa**: somos los últimos en capacidad
 
 ## Lo que ya lograste
 
-Compraste la **Mejora A en Asia** ($10,0 M) en el Año 11. Resultado medido en el Año 12:
+Compraste la **Mejora A en Asia** ($10,0 M) en el Año 11, cuando el rechazo de esa planta
+era **10,1%: el peor de las ocho empresas**.
 
-> **La tasa de rechazo de Asia bajó de 10,1% a 5,0%.**
-
-Era la peor de la industria y ahora está por debajo del promedio. Ahorro permanente:
-$3.571 mil al año sobre una inversión de $10 M — se repaga en 2,8 años.
+Abrí la pantalla 2 y mirá la tasa de rechazo proyectada de Asia. Vas a ver qué compraste.
 
 ## El problema
 
@@ -61,40 +59,48 @@ Asia tiene 2.000 de espacio libre **y** el mejor margen por par de las cuatro re
 manual. El límite es **una vez por opción y por planta**. Solo la Opción A de Asia figura
 como "Hecho". **Quedan siete comprables.**
 
-Relaciones medidas en el panel del Año 12 (ahorro anual ÷ capital):
+Ahorro anual que informa el panel, contra el capital que exige cada una:
 
 | Opción | Planta | Capital | Ahorro anual | Relación |
 |---|---|---|---|---|
-| **C — +1 estrella S/Q** | Asia | $19.200 | $5.731 | **29,8%** |
-| **B — preparación −50%** | N.A. | $6.400 | $1.860 | **29,1%** |
-| **B — preparación −50%** | Asia | $6.400 | $1.860 | **29,1%** |
-| **A — rechazo −50%** | **N.A.** | $10.000 | $2.691 | **26,9%** ← nunca evaluada |
-| C — +1 estrella S/Q | N.A. | $19.200 | $2.979 | 15,5% |
-| D — productividad +50% | N.A. | $57.600 | $7.929 | 13,8% |
-| D — productividad +50% | Asia | $57.600 | $1.444 | 2,5% |
+| C — +1 estrella S/Q | Asia | $19.200 | $5.860 | 30,5% |
+| B — preparación −50% | N.A. | $6.400 | $1.860 | 29,1% |
+| B — preparación −50% | Asia | $6.400 | $1.860 | 29,1% |
+| **A — rechazo −50%** | **N.A.** | $10.000 | $2.530 | 25,3% ← **nunca se evaluó** |
+| C — +1 estrella S/Q | N.A. | $19.200 | $3.120 | 16,3% |
+| D — productividad +50% | N.A. | $57.600 | $7.170 | 12,4% |
+| D — productividad +50% | Asia | $57.600 | $1.390 | 2,4% |
 
-Las cuatro mejores suman **$42,0 M de capital por $12,1 M anuales para siempre.**
+**Verificá estos números en la pantalla antes de decidir:** el ahorro proyectado se
+recalcula según el estado actual de la planta y puede haber cambiado.
 
 ## La regla más cara de todas
 
 **Las mejoras rinden CERO en el año en que se compran.**
 
-En el Año 12 se instalaron las cuatro mejores por $42,0 M y después se quitaron. Con
-ellas y sin ellas, todo idéntico:
-
-| | Con las 4 mejoras | Sin ellas |
-|---|---|---|
-| Calidad S/Q N.A. / Asia | 4,4 / 3,8 | 4,4 / 3,8 |
-| Tasa de rechazo | 7,3% / 5,3% | 7,3% / 5,3% |
-| Costo de preparación | $6.000 | $6.000 |
-| Beneficio neto | 52.278 | 52.278 |
-| **Caja** | **25.049** | **67.040** |
-
-La columna "Ahorro anual previsto" que muestra la pantalla **es engañosa**: el capital
-sale hoy, el beneficio arranca el año siguiente.
+El capital sale el año de la compra; el beneficio arranca el siguiente. La columna
+“Ahorro anual previsto” que muestra la pantalla **no se cobra en el ejercicio en curso**.
 
 **Consecuencia práctica: hay que comprarlas temprano en el juego, no tarde.** Una mejora
 comprada en la última ronda es plata tirada.
+
+## Las decisiones concretas de mañana
+
+### Pantalla 3 — Instalaciones de producción
+
+| Campo | Norteamérica | Asia-Pacífico |
+|---|---|---|
+| Compra de equipo nuevo | 0 | 0 |
+| Compra de equipo reacondicionado | 0 | 0 |
+| Venta de equipo | 0 | 0 |
+| Opción A (rechazo −50%) | No | **Hecho** (Año 11) |
+| Opción B (preparación −50%) | No | No |
+| Opción C (+1 estrella S/Q) | No | No |
+| Opción D (productividad +50%) | No | No |
+| Construcción de espacio nuevo | 0 | 0 |
+
+**Todo en cero.** Sos el único que puede proponer una inversión de capital, y es la
+decisión más grande que tiene el equipo.
 
 ## Qué leer
 
@@ -108,10 +114,11 @@ comprada en la última ronda es plata tirada.
 
 1. **¿Equipamos el espacio libre?** Cuántos miles de pares, en qué planta, nuevo o
    reacondicionado, y cuánto cuesta. Es la decisión más grande que tiene el equipo.
-2. **¿Qué mejoras compramos y en qué orden?** Las cuatro mejores son $42 M por $12,1 M
-   anuales, pero rinden recién el año siguiente.
-3. El impacto en el **ratio de riesgo de impago** (tiene que quedar arriba de 4,00 para
-   sostener la calificación crediticia). Hoy está en 5,09, con margen.
+2. **¿Qué mejoras compramos y en qué orden?** Con el costo, el ahorro anual que informa
+   la pantalla y el año en que empieza a rendir cada una.
+3. El impacto en el **ratio de riesgo de impago**, que tiene que quedar arriba de 4,00
+   para sostener la calificación crediticia. Leélo en la pantalla 10 antes y después de
+   cargar tu propuesta.
 
 ## El contexto que complica la decisión
 

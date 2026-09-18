@@ -24,7 +24,8 @@ rinden en el año en curso.
 | Ratio corriente | 3,03 | 3,51 |
 | Días de inventario | 21 | 20 |
 
-Calificación obtenida: **A−**. En el Año 12 el set cargado proyecta **A** con ratio **5,09**.
+Calificación obtenida en el Año 11: **A−**. El set que está cargado hoy para el Año 12
+proyecta **A**.
 
 **El umbral que importa: el ratio de riesgo de impago tiene que quedar por encima de 4,00.**
 Hoy tenemos margen de sobra, así que la inversión de capital no está limitada.
@@ -50,24 +51,24 @@ Se midió con $0, con $0,50 y con $1,00 por acción: **el ratio quedó idéntico
 los tres casos. La creencia de que el dividendo consume el flujo que define el ratio
 resultó falsa.
 
-Lo que sí hace: **mejora el ROE**, porque reduce los fondos propios sobre los que se mide.
-De $1,00 a $1,50 movió el ROE de 22,8% a 23,2% sin tocar el EPS.
+Lo que sí hace: **mejora el ROE**, porque reduce los fondos propios sobre los que se
+mide, sin tocar el EPS.
 
-### 2. La recompra de acciones es la mejor palanca de caja de corto plazo
+### 2. La recompra de acciones paga en el año en curso
 
-En el Año 12: **450 mil acciones por $15,5 M dieron +$0,07 de EPS y +0,6 de ROE el mismo
-día.** Es el único uso de caja que pagó dentro del año.
+Reduce las acciones en circulación, así que sube el EPS y el ROE **en el ejercicio
+actual** — a diferencia de casi todo lo demás del juego, que rinde al año siguiente.
 
-(Ojo: el tope de recompra lo fija el simulador cada año y varía. En el Año 11 eran solo
-200 mil acciones.)
+El tope lo fija el simulador cada año y varía: en el Año 11 eran 200 mil acciones.
+Fijate cuál es el tope de este año en la pantalla.
 
 ## Lo que NO funciona — ya probado
 
 | Probado | Resultado |
 |---|---|
-| Prepagar el préstamo #1 ($12 M al 8,2%) | **Cero** efecto en el EPS del año |
+| Prepagar deuda | Amortizar antes no mejora el EPS del año en curso |
 | Emitir acciones | Diluye EPS y ROE, los dos indicadores que peleamos |
-| Comprar mejoras de equipo | **Cero** efecto en el año de compra (rinden al siguiente) |
+| Comprar mejoras de equipo | Rinden al año siguiente, no en el de la compra |
 
 ## Datos del Año 12
 
@@ -91,7 +92,26 @@ día.** Es el único uso de caja que pagó dentro del año.
 Amortización programada del Año 12: **$15.900 mil**.
 
 **El crédito está más barato que nuestra deuda vieja.** Vale mirar si conviene refinanciar
-el préstamo #1 al 8,2%, aunque el prepago simple no movió el EPS.
+el préstamo #1, que está al 8,2% cuando hoy se consigue al 6,60%.
+
+## Las decisiones concretas de mañana
+
+### Pantalla 10 — Finanzas y tesorería
+
+| Campo | Cargado hoy |
+|---|---|
+| Préstamo a 1 año (5,60%) | $0 |
+| Préstamo a 5 años (6,10%) | $0 |
+| Préstamo a 10 años (6,60%) | $0 |
+| Emisión de acciones | 0 |
+| Recompra de acciones | 0 |
+| Pago anticipado de deuda | Nada |
+| **Dividendo por acción** | **$0,00** |
+
+El Año 11 pagó $1,00. Hoy está en cero: es una decisión a tomar, no un default.
+
+**Tu pantalla se carga última.** Hasta que no estén las otras nueve, los números sobre
+los que decidís no son los definitivos.
 
 ## Qué leer
 

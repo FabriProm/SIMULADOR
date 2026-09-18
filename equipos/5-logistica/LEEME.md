@@ -6,40 +6,10 @@
 
 ## Lo que tenés que saber en una frase
 
-Tus costos están en línea con la industria, pero hay **893 mil pares sin despachar** en
-el set cargado — y probablemente el simulador los despache solo, lo que nos haría perder
-la meta de imagen.
+Tus costos están en línea con la industria, pero **los aranceles nos costaron $26,3
+millones** en el Año 11 — y eso lo define tu pantalla: de qué planta sale cada par.
 
-## ⚠️ Lo primero que hay que verificar
-
-El set del Año 12 tiene esta situación:
-
-| | Miles de pares |
-|---|---|
-| Producción neta (después de rechazos) | 8.233 |
-| Envíos cargados | 7.340 |
-| **Sin despachar** | **893** |
-
-La pantalla dice en su nota al pie: *"si no se envían, los pares no enviados se enviarán
-automáticamente a los almacenes regionales en proporción a las entradas de envío que
-existan"*.
-
-Cuando se probó despacharlos, el resultado fue:
-
-| | Sin despachar | Despachados |
-|---|---|---|
-| EPS | $3,08 | $3,00 |
-| **Imagen** | **72** | **70** |
-
-**La imagen está clavada en 72, que es exactamente la meta del Año 12.** Si el simulador
-despacha esos pares por su cuenta, perdemos ese objetivo — el 20% del puntaje.
-
-**Tu primera tarea:** abrí la pantalla 4 y fijate qué dice el campo *"Pares restantes por
-enviar"*. Si muestra 893 y no 0, hay que decidir qué hacer antes del cierre.
-
-## Cómo cerró el Año 11 de verdad
-
-Ahora tenemos el reporte real. **No hubo faltante: hubo excedente.**
+## Cómo cerró el Año 11
 
 | | N.A. | E-A | A-P | L-A | Total |
 |---|---|---|---|---|---|
@@ -51,14 +21,13 @@ Ahora tenemos el reporte real. **No hubo faltante: hubo excedente.**
 
 Dos cosas que salen de acá:
 
-1. **Vendimos más de lo que el mercado nos pedía.** La demanda propia fue 2.201 en
-   Norteamérica y vendimos 2.290: la diferencia son pedidos que otras empresas no pudieron
-   abastecer y nos cayeron a nosotros. Pasó en las cuatro regiones.
-2. **Arrancamos el Año 12 con 412 mil pares de inventario**, que entran con la penalización
-   de 0,3 estrellas por ser de la temporada anterior.
-
-**Aranceles pagados en el Año 11:** $11.652 mil en Europa-África y $14.610 mil en
-Latinoamérica. Total **$26,3 millones**.
+1. **Vendimos más de lo que pedía nuestra propia demanda.** En Norteamérica la demanda fue
+   2.201 y vendimos 2.290: la diferencia son pedidos que otras empresas no pudieron
+   abastecer y nos cayeron a nosotros. Pasó en las cuatro regiones — cuatro de las ocho
+   empresas se quedaron sin stock.
+2. **Arrancamos el Año 12 con 412 mil pares de inventario**, que entran al almacén con una
+   penalización de 0,3 estrellas por ser de la temporada anterior, y arrastran hacia abajo
+   el promedio de calidad de cada región.
 
 ## Costos de distribución — Año 11 real
 
@@ -70,12 +39,42 @@ Latinoamérica. Total **$26,3 millones**.
 | **Latinoamérica** | **$17,13** | $17,34 | **casi el triple que N.A.** |
 
 La diferencia la explican los **aranceles de importación**: $6 por par en Europa y $10 en
-Latinoamérica, contra cero en las dos regiones donde tenemos planta. En el Año 11 pagamos
-**$27,8 millones** de aranceles.
+Latinoamérica, contra cero en las dos regiones donde tenemos planta.
+
+**Lo que pagamos en el Año 11:** $11.652 mil en Europa-África y $14.610 mil en
+Latinoamérica. Total **$26,3 millones**.
 
 Costo de flete: **$0,97 por par dentro de la misma región, $1,94 cruzando regiones.**
 
-## El reparto cargado hoy
+## Dato nuevo del Año 12: el tipo de cambio
+
+En el Año 11 no había ajuste. En el Año 12 sí, y **ya se conoce por adelantado**:
+
+| Región | Por par | Total |
+|---|---|---|
+| Norteamérica | $0,00 | — |
+| Europa-África | **−$0,50** | −$797 mil |
+| Asia-Pacífico | **−$0,19** | −$239 mil |
+| Latinoamérica | **+$0,28** | +$335 mil |
+
+Impacto neto cercano a −$700 mil. Chico frente a los aranceles, pero es un costo nuevo que
+antes no existía y cambia el cálculo de desde dónde conviene despachar.
+
+## Dos reglas de tu pantalla
+
+**Los pares que no despaches se despachan solos.** La nota al pie dice: *"si no se envían,
+los pares no enviados se enviarán automáticamente a los almacenes regionales en proporción
+a las entradas de envío que existan"*. **Fijate siempre qué dice el campo "Pares restantes
+por enviar" antes de dar por cerrada la pantalla.**
+
+**Mover pares entre regiones no crea pares.** Tapar un faltante abre otro. Si falta
+producto, la solución está en la pantalla 2 (producción) o en la 3 (capacidad), no acá.
+Tu palanca real es **elegir de qué planta sale cada par**, porque eso define el arancel,
+el flete y el ajuste cambiario que paga.
+
+## Las decisiones concretas de mañana
+
+### Pantalla 4 — Distribución y almacén
 
 | Origen → Destino | Miles de pares |
 |---|---|
@@ -84,32 +83,10 @@ Costo de flete: **$0,97 por par dentro de la misma región, $1,94 cruzando regio
 | Planta Asia → almacén Europa-África | 700 |
 | Planta Asia → almacén Asia-Pacífico | 1.560 |
 | Planta Asia → almacén Latinoamérica | 1.461 |
+| **Liquidación de inventario viejo** | **0% en las cuatro regiones** |
 
-Europa se abastece casi toda desde Norteamérica porque la planta asiática hace falta para
-marca privada.
-
-## Excedente y déficit por región (Año 12 proyectado)
-
-| | N.A. | E-A | A-P | L-A | Neto |
-|---|---|---|---|---|---|
-| Excedente/déficit | −7 | −67 | −6 | −84 | **−164** |
-
-**Cero es el objetivo.** Positivo es capital dormido; negativo es venta perdida. El
-déficit de 164 mil pares está teóricamente cubierto por los 893 sin despachar — que es
-justamente el punto de arriba.
-
-## Dos cosas que probaste (o probó el equipo) y no funcionaron
-
-- Subir los envíos en las cuatro regiones: revertido, no mejoró nada
-- Liquidar inventario viejo: con el excedente cerca de cero, liquidar solo resigna margen
-
-## Lo que tu pantalla NO puede arreglar
-
-**Mover pares entre regiones no crea pares.** Tapar un faltante abre otro. Si falta
-producto, la solución está en la pantalla 2 (producción) o en la 3 (capacidad), no acá.
-
-Tu palanca real es **elegir de qué planta sale cada par**, porque eso define el arancel y
-el flete que paga.
+Son cinco casillas de envío más la liquidación. Los envíos tienen que sumar lo que
+produzcan las plantas: lo que quede sin asignar se despacha solo.
 
 ## Qué leer
 
@@ -121,21 +98,11 @@ el flete que paga.
 
 ## Con qué llegar a la reunión
 
-1. **La respuesta sobre los 893 mil pares.** Es lo más urgente.
-2. Un reparto que deje el excedente cerca de **cero en las cuatro regiones**.
-3. Tu lectura de si conviene abastecer Europa desde Norteamérica o desde Asia, mirando
-   arancel + flete + tipo de cambio.
-
-## Dato nuevo del Año 12: el tipo de cambio
-
-En el Año 11 no había ajuste. En el Año 12 sí, y ya se conoce:
-
-| Región | Por par | Total |
-|---|---|---|
-| Norteamérica | $0,00 | — |
-| Europa-África | **−$0,50** | −$797 mil |
-| Asia-Pacífico | **−$0,19** | −$239 mil |
-| Latinoamérica | **+$0,28** | +$335 mil |
-
-Impacto neto cercano a −$700 mil. Chico frente al resto, pero es un costo nuevo que antes
-no existía y afecta las decisiones de desde dónde despachar.
+1. **Un reparto propuesto** que deje el excedente cerca de cero en las cuatro regiones.
+   Positivo es capital dormido; negativo es venta perdida.
+2. Tu lectura de **si conviene abastecer Europa desde Norteamérica o desde Asia**, mirando
+   arancel más flete más tipo de cambio.
+3. Qué hacer con los **412 mil pares de inventario viejo**: ofrecerlos con la penalización
+   de calidad, o liquidarlos con descuento.
+4. Si el reparto que propongas deja pares sin despachar, decilo explícitamente — no lo
+   dejes librado al reparto automático.

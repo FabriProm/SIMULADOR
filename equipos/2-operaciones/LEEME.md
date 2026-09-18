@@ -33,8 +33,8 @@ rechazo de las ocho empresas** en las dos plantas.
 | Gasto en TQM por par | $0,90 | $1,40 | |
 | TQM acumulado | $4.320 | $7.659 | |
 
-**La buena noticia:** la mejora de maquinaria comprada en el Año 11 ya rindió —
-**el rechazo de Asia bajó de 10,1% a 5,0%** en el Año 12.
+**La buena noticia:** la mejora de maquinaria comprada en el Año 11 ya rindió. Abrí la
+pantalla 2 y mirá la tasa de rechazo proyectada de Asia contra ese 10,1%.
 
 **La que queda:** Norteamérica sigue en 6,9-7,3%, y la Opción A para esa planta nunca se
 compró. Es la segunda mejor relación de inversión de todo el tablero (26,9% anual).
@@ -86,18 +86,43 @@ cuántos pares absorben el costo fijo.**
 
 **Regla: las dos plantas siempre llenas, 4.800 pares brutos cada una.**
 
-Pero con la mezcla correcta: la marca propia deja más que la privada en las cuatro
-regiones ($8,08 contra $3,92 en N.A.). En el Año 12, desplazar capacidad de privada a
-propia valió **+$0,30 de EPS**.
+Pero con la mezcla correcta: en el Año 11 la marca propia dejó más que la privada en las
+cuatro regiones ($8,08 por par contra $3,92 en Norteamérica). **Cuánta capacidad va a cada
+una es tu decisión más importante.**
 
 ## Dos trampas del simulador
 
 1. **La producción de marca se autolimita** a 4.800 menos la marca privada. Para subir
    marca propia hay que **bajar marca privada primero, guardar, y después subir**. Al
    revés el campo vuelve solo a su valor anterior sin avisar.
-2. **La casilla "incorporar en proyecciones" de marca privada se resetea sola** cuando un
-   envío pasa por cero. Con una sola casilla en "No" el panel leyó $2,23 en vez de $2,91.
-   **Verificá las cuatro después de cada cambio.**
+2. **La casilla “incorporar en proyecciones” de marca privada se resetea sola** cuando un
+   envío pasa por cero, y saca la facturación entera del canal del pronóstico sin ningún
+   aviso. **Verificá las cuatro después de cada cambio.**
+
+## Las decisiones concretas de mañana
+
+### Pantalla 2 — Producción de marca
+
+| Campo | Norteamérica | Asia-Pacífico |
+|---|---|---|
+| Material superior | 32% | 54% |
+| Modelos | 200 | 200 |
+| Estilo por modelo | $10 mil | $10 mil |
+| TQM / 6-Sigma por par | $1,00 | $0,90 |
+| Pares a fabricar | 3.891 | 4.139 |
+
+Precios de materiales del Año 12: **estándar $6,42 · superior $12,12** (subían de $6,00
+y $12,00 porque la industria superó el 110% de utilización).
+
+### Pantalla 7 — Marca privada
+
+| Campo | N.A. | E-A | A-P | L-A |
+|---|---|---|---|---|
+| Pares en venta | 423 | 424 | 314 | 314 |
+| Precio de oferta | $31,00 | $37,00 | $31,00 | $37,00 |
+| Incorporar en proyecciones | Sí | Sí | Sí | Sí |
+
+Material superior 16% en N.A. y 26% en Asia · 100 modelos (requisito global).
 
 ## Qué leer
 

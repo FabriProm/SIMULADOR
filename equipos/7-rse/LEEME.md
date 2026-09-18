@@ -6,8 +6,8 @@
 
 ## Lo que tenés que saber en una frase
 
-Tu pantalla controla **el 20% del puntaje** (la calificación de imagen), y en el Año 12
-quedó **clavada en 72, que es exactamente la meta**. Sin margen.
+Tu pantalla controla **el 20% del puntaje** (la calificación de imagen), y es la única
+palanca del juego que **no se puede recuperar si se arranca tarde**.
 
 ## Dónde estamos
 
@@ -22,44 +22,22 @@ quedó **clavada en 72, que es exactamente la meta**. Sin margen.
 | B | 63 |
 | A | 62 |
 
-Terceros de ocho. En el Año 12 el set cargado proyecta **72**, que iguala la meta justo.
+Terceros de ocho. Cumplimos la meta del Año 11, que era 70.
 
-## Lo que se gastó en la industria (Año 11)
+**La meta del Año 12 es 72.** El set que está cargado hoy proyecta **68**. Faltan 4 puntos.
+
+## Lo que gastó la industria en el Año 11
 
 | | Alto | Promedio | Bajo |
 |---|---|---|---|
 | Desembolso total | $21.533 mil | $6.366 mil | $0 |
 | Por par vendido | $1,76 | $0,64 | $0,00 |
 
-Nosotros gastamos **$12.700 mil** ($1,45 por par): bastante arriba del promedio.
+Nosotros gastamos **$12.700 mil** ($1,45 por par): bastante arriba del promedio, pero muy
+lejos del que más gastó.
 
-## ⭐ El dato más valioso que tenés
-
-Cada iniciativa se midió **por separado** en el Año 12. Esto no lo tiene ninguna otra área:
-
-| Iniciativa | Costo en EPS | Puntos de imagen | Veredicto |
-|---|---|---|---|
-| **Eficiencia energética $500** | −$0,01 | **+2** | **la mejor compra del juego** |
-| **Código de conducta de proveedores** | −$0,05 | **+1** | buena |
-| **Estilo por modelo, de $10k a $20k** | −$0,17 | **+3** | cara pero fue la que cerró la meta |
-| Material superior Asia 40% → 54% | −$0,08 | +1 | aceptable |
-| Empaque reciclado | −$0,05 | **0** | no comprar |
-| Contribuciones benéficas $3 M | −$0,22 | **0** | **plata tirada** |
-
-**La eficiencia energética da 2 puntos de imagen por un centavo de EPS.** Nunca se había
-probado antes del Año 12.
-
-**Las contribuciones benéficas dan cero.** Cuesta $0,22 de EPS y no mueve la aguja. Es la
-trampa más cara de tu pantalla.
-
-## Las dos que se pagan solas
-
-**Comedor y guardería** y **ventilación, iluminación y seguridad** dan **+100 pares de
-productividad por trabajador cada una**. Aplicadas a las dos plantas son +200 pares.
-
-El ahorro de mano de obra **supera el costo**. No son gasto de imagen: son inversión en
-productividad que además puntúa. Las dos están activas y hay que defenderlas si alguien
-propone recortarlas.
+El FIR también informa cuántos puntos de imagen genera el gasto en RSE: **alto 6 puntos,
+medio 2 puntos, bajo 0**. Está en la página 3 del informe de industria.
 
 ## La regla que hace todo más lento
 
@@ -67,49 +45,73 @@ propone recortarlas.
 el año en curso.
 
 Consecuencias:
+
 - Lo que prendas hoy entra a **un tercio** de su efecto este año
 - **Empezar tarde no se recupera.** Una iniciativa activada en la ronda 4 casi no puntúa
 - Apagar y prender no acumula: tiene que ser sostenido
 
-Por eso la medición del Año 11 salió mal: se probaron dos iniciativas juntas, el efecto
-quedó diluido por el promedio de tres años, y se concluyó que ninguna servía. La medición
-separada del Año 12 mostró que el código de proveedores sí da +1.
+Esto también significa que **medir el efecto de una iniciativa es difícil**: si probás dos
+juntas, el efecto de cada una queda diluido y podés concluir que ninguna sirve. Conviene
+probarlas **de a una**.
 
-## Estado actual (Año 12 cargado)
+## Las siete iniciativas y lo que se sabe de cada una
+
+| Iniciativa | Costo | Efecto conocido |
+|---|---|---|
+| **Comedor y guardería** | $2,5 M de capital + $600 mil/año por planta | **+100 pares de productividad por trabajador** |
+| **Ventilación, iluminación y seguridad** | $3,0 M de capital + $500 mil/año por planta | **+100 pares de productividad por trabajador** |
+| Empaque reciclado | +$0,15 por par (~$1,2 M al año) | solo imagen |
+| Eficiencia energética | inversión de capital, se deprecia 10% anual | solo imagen |
+| Formación ética | +$400 mil al año | solo imagen |
+| Código de conducta de proveedores | +$750 mil al año por planta | solo imagen |
+| Contribuciones benéficas | monto o % de utilidad antes de impuestos | deducible de impuestos |
+
+**Las dos primeras se pagan solas.** El ahorro de mano de obra que genera la productividad
+extra supera el costo. No son gasto de imagen: son inversión en productividad que además
+puntúa. Si alguien propone recortarlas, defendelas.
+
+**De las otras cinco no sabemos el rendimiento por punto de imagen.** Esa es tu tarea:
+medir cuál compra puntos barato y cuál es plata tirada.
+
+## Las decisiones concretas de mañana
+
+Son siete casillas. Este es el estado cargado hoy:
 
 | Iniciativa | Estado |
 |---|---|
-| Comedor y guardería | ✅ Continúa |
-| Ventilación, iluminación y seguridad | ✅ Continúa |
-| Formación ética | ✅ Sí |
-| **Eficiencia energética** | ✅ **$500** |
-| **Código de conducta de proveedores** | ✅ **Sí** |
-| Empaque reciclado | ❌ No (medido: cero puntos) |
-| Contribuciones benéficas | ❌ $0 (medido: cero puntos) |
+| Comedor y guardería | Continúa |
+| Ventilación, iluminación y seguridad | Continúa |
+| Formación ética | Sí |
+| Empaque reciclado | **No** |
+| Eficiencia energética | **$0** |
+| Contribuciones benéficas | **$0** |
+| Código de conducta de proveedores | **No** |
+
+Hay cuatro iniciativas apagadas y la imagen proyectada es 68 contra una meta de 72.
 
 ## Un premio que aparece más adelante
 
 A partir del **Año 14**, el Consejo Mundial para una Ciudadanía Empresarial Ejemplar
 otorga un premio a la empresa que más destina a RSE como **porcentaje de sus ingresos**.
-Da puntos extra. Vale tenerlo en el radar si el juego llega hasta ahí.
+Da puntos extra. Vale tenerlo en el radar.
 
 ## Qué leer
 
 | Archivo | Qué mirar |
 |---|---|
-| **FIR Ano11 - informe de industria completo.pdf** | Página 3: la tabla de calificación de imagen de las 8 empresas y, abajo, los desembolsos de RSE de la industria |
-| **Resumen de decisiones Ano12.pdf** | Las siete iniciativas y su estado |
+| **FIR Ano11 - informe de industria completo.pdf** | Página 3: la tabla de calificación de imagen de las 8 empresas y, abajo, los desembolsos de RSE de la industria y los puntos que generaron |
+| **Resumen de decisiones Ano12.pdf** | Las siete iniciativas y su estado actual |
 
 ## Con qué llegar a la reunión
 
-1. **Cuántos puntos de imagen podemos comprar y a qué precio.** Sos la única persona del
-   equipo que tiene la tabla de costo por punto — usala.
-2. Una postura sobre si **72 alcanza o hay que dejar margen.** Está justo en la meta y
-   cualquier deslizamiento la hace perder. Y como promedia tres años, no se arregla después.
-3. Si conviene subir la eficiencia energética por encima de $500, que nunca se probó.
+1. **Cuántos puntos de imagen necesitamos y de dónde los sacamos.** Faltan 4.
+2. **El costo por punto de cada iniciativa.** Probá una por vez y anotá cuánto sube la
+   imagen y cuánto baja el EPS. Nadie más en el equipo va a hacer esa medición.
+3. Una postura sobre **cuánto margen dejar**. Si quedamos justo en 72, cualquier
+   deslizamiento nos hace perder el objetivo — y como promedia tres años, no se arregla
+   después.
 
 ## Nota sobre tu rol
 
-Es la pantalla con menos campos de las diez, pero controla un quinto del puntaje y es la
-única palanca que **no se puede recuperar si se arranca tarde**. No es un área menor:
-es la que tiene el reloj corriendo en contra.
+Es la pantalla con menos campos de las diez, pero controla un quinto del puntaje. No es un
+área menor: es la única que tiene el reloj corriendo en contra.
