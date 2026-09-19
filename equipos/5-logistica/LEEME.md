@@ -72,6 +72,19 @@ producto, la solución está en la pantalla 2 (producción) o en la 3 (capacidad
 Tu palanca real es **elegir de qué planta sale cada par**, porque eso define el arancel,
 el flete y el ajuste cambiario que paga.
 
+## Lo que el Año 12 proyecta hoy, sin tocar nada
+
+Esto es lo que vas a tener que repartir:
+
+| | N.A. | E-A | A-P | L-A | Total |
+|---|---|---|---|---|---|
+| Pares de marca propia por internet | 494 | 366 | 286 | 248 | **1.394** |
+| Pares de marca propia a tiendas | 1.969 | 1.610 | 1.282 | 1.196 | **6.057** |
+| Pares de marca privada | 423 | 424 | 314 | 314 | **1.475** |
+
+**Casi 8,9 millones de pares en total.** Y arrancamos con 412 mil de inventario viejo en
+los almacenes, que también hay que colocar.
+
 ## Las decisiones concretas de mañana
 
 ### Pantalla 4 — Distribución y almacén

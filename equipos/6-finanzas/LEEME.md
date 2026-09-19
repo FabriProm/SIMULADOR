@@ -94,6 +94,27 @@ Amortización programada del Año 12: **$15.900 mil**.
 **El crédito está más barato que nuestra deuda vieja.** Vale mirar si conviene refinanciar
 el préstamo #1, que está al 8,2% cuando hoy se consigue al 6,60%.
 
+## Lo que el Año 12 proyecta hoy, sin tocar nada
+
+| | Proyectado | Meta del Año 12 |
+|---|---|---|
+| Ingresos totales | $481.253 mil | — |
+| Beneficio neto | $59.970 mil | — |
+| **Ganancia por acción** | **$3,00** | $3,00 |
+| **Rentabilidad sobre el capital** | **22,2%** | 22,0% |
+| **Calificación crediticia** | **A** | B+ |
+| Calificación de imagen | 68 | 72 |
+| Caja al cierre | +$71.232 mil | — |
+
+> **Dos de estos números están apenas arriba de la meta y uno está abajo.** La ganancia
+> por acción proyecta exactamente $3,00 contra una meta de $3,00: sin ningún margen.
+>
+> Y el año pasado el resultado real vino 12% por debajo de lo proyectado. Quedarse justo
+> en la meta probablemente signifique no cumplirla.
+
+Hay **$71 millones de caja** proyectados. Esa es tu decisión más grande: qué se hace con
+esa plata.
+
 ## Las decisiones concretas de mañana
 
 ### Pantalla 10 — Finanzas y tesorería

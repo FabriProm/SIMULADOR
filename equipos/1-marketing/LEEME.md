@@ -65,6 +65,23 @@ Pero pagamos de más al firmar: Billy Eyelash salió $3.500 cuando la segunda of
 $2.799, y Taylor Sluggish $1.200 contra $1.000. **~$900 mil de sobrepago.** Si hay que
 ofertar de nuevo, el precio de despeje de esta industria está entre $500 y $3.000.
 
+## Lo que el Año 12 proyecta hoy, sin tocar nada
+
+| | N.A. | E-A | A-P | L-A |
+|---|---|---|---|---|
+| **Cuota en internet** | 13,8% | 11,9% | 11,6% | 10,0% |
+| Pares vendidos online (miles) | 494 | 366 | 286 | 248 |
+| **Cuota mayorista** | **11,3%** | **10,8%** | **10,5%** | **9,8%** |
+| Pares vendidos a tiendas (miles) | 1.969 | 1.610 | 1.282 | 1.196 |
+
+**La línea base del juego es 12,5%** — es lo que tendría cada empresa si las ocho
+hicieran exactamente lo mismo.
+
+> **En internet estamos por encima en tres de las cuatro regiones. En el canal mayorista
+> estamos por debajo en las cuatro.** Y el mayorista es el 81% de nuestro volumen.
+
+Esa es la brecha que tenés que explicar y cerrar.
+
 ## Las decisiones concretas de mañana
 
 Estos son los campos que vas a tener que defender, con el valor que está cargado hoy

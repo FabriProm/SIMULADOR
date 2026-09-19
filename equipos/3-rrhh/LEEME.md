@@ -78,6 +78,14 @@ Las dos están activas y **se pagan solas**: el ahorro de mano de obra supera el
 Son técnicamente de RSE pero el efecto es tuyo — vale que las defiendas si alguien
 propone recortarlas.
 
+## Lo que el Año 12 proyecta hoy, sin tocar nada
+
+La tasa de rechazo proyectada es **6,9% en Norteamérica y 5,0% en Asia**.
+
+Asia venía de 10,1% en el Año 11: la mejora de maquinaria hizo la mitad del trabajo.
+**Norteamérica quedó casi igual.** Si alguien pregunta por qué no se ataca con incentivos,
+la respuesta ya está medida más arriba en este documento.
+
 ## Las decisiones concretas de mañana
 
 ### Pantalla 1 — Remuneración y formación

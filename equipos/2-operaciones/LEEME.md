@@ -99,6 +99,28 @@ una es tu decisión más importante.**
    envío pasa por cero, y saca la facturación entera del canal del pronóstico sin ningún
    aviso. **Verificá las cuatro después de cada cambio.**
 
+## Lo que el Año 12 proyecta hoy, sin tocar nada
+
+| | Norteamérica | Asia-Pacífico |
+|---|---|---|
+| **Calidad S/Q proyectada** | **4,0** | **4,1** |
+| **Tasa de rechazo proyectada** | **6,9%** | **5,0%** |
+| Precio del material estándar | $6,42 | $6,42 |
+| Precio del material superior | $12,12 | $12,12 |
+
+La tasa de rechazo de Asia bajó mucho respecto del 10,1% del Año 11: ese es el efecto de
+la mejora de maquinaria. **Norteamérica sigue casi igual en 6,9%.**
+
+### Marca privada proyectada
+
+| | N.A. | E-A | A-P | L-A |
+|---|---|---|---|---|
+| Cuota del mercado de marca privada | 21,5% | 21,5% | 15,4% | 15,4% |
+| Pares (miles) | 423 | 424 | 314 | 314 |
+
+**Recordá que hay un tope del 25% por empresa.** En Norteamérica y Europa estamos a menos
+de 4 puntos del techo.
+
 ## Las decisiones concretas de mañana
 
 ### Pantalla 2 — Producción de marca

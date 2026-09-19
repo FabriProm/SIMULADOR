@@ -69,6 +69,31 @@ precios**: C fue a $55, A a $51, F se quedó en $48. Esta industria no ha sido a
 precio hasta ahora. Que haya sobreoferta no garantiza que eso cambie — estimarlo es
 exactamente tu trabajo.
 
+## Lo que el Año 12 proyecta hoy, sin tocar nada
+
+| | Proyectado | Meta |
+|---|---|---|
+| Ganancia por acción | **$3,00** | $3,00 |
+| Rentabilidad sobre el capital | 22,2% | 22,0% |
+| Calificación crediticia | A | B+ |
+| Calificación de imagen | 68 | 72 |
+
+Ingresos $481.253 mil · Beneficio neto $59.970 mil · Caja +$71.232 mil
+
+### Cuotas de mercado proyectadas
+
+| Canal | N.A. | E-A | A-P | L-A |
+|---|---|---|---|---|
+| Internet | 13,8% | 11,9% | 11,6% | 10,0% |
+| **Mayorista** | **11,3%** | **10,8%** | **10,5%** | **9,8%** |
+| Marca privada | 21,5% | 21,5% | 15,4% | 15,4% |
+
+> **Cuidado con este $3,00.** Sale de las casillas de supuestos tal como vienen cargadas.
+> En el Año 11 pasó exactamente lo mismo: el panel mostraba un número cómodo y el real
+> vino 12% abajo.
+>
+> **Tu primera tarea es decir cuánto de ese $3,00 es real.**
+
 ## Las decisiones concretas de mañana
 
 ### Las 10 casillas de supuestos competitivos
