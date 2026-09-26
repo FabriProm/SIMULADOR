@@ -1,159 +1,46 @@
 # FINANZAS — Constanza Villanueva
 
-**Pantalla que manejás:** 10 Finanzas y gestión de tesorería
-**Tu pantalla se carga SIEMPRE ÚLTIMA**, cuando ya están todos los números puestos.
+**Pantalla que manejás:** 10 Finanzas y gestión de tesorería.
+**Se carga SIEMPRE ÚLTIMA**, cuando ya están todos los números puestos.
 
 ---
 
-## Lo que tenés que saber en una frase
+## Lo que aprendimos en las pruebas
 
-Tenés la calificación crediticia con margen de sobra, y **dos palancas que pagan el mismo
-día**: la recompra de acciones y el dividendo. Son de las pocas cosas del juego que
-rinden en el año en curso.
+1. **El dividendo no afecta la calificación crediticia.** El ratio de riesgo de impago dio
+   4,77 con $0, con $0,50 y con $1,00 por acción. Y **sube el ROE** porque achica el capital
+   propio: de $1,00 a $1,50 por acción, el ROE pasó de 22,8% a 23,2%.
+2. **La recompra de acciones paga en el mismo año.** 450 mil acciones dieron +$0,07 de EPS y
+   +0,6 de ROE. Es de lo poco que rinde en el ejercicio en curso.
+3. **Prepagar deuda no mueve el EPS del año.** $12 M al 8,2% prepagados: cero efecto.
+4. **La inversión de capital se mide en el panel, no con una cuenta previa.** Se temía que
+   $10 M bajaran el ratio de 4,07 a 3,44; con los aumentos de precio quedó en 4,50 con
+   calificación A.
+5. **Tomar deuda castiga el ratio dos veces:** por el capital y por la amortización.
+   Emitir acciones diluye el EPS y el ROE.
 
-## Nuestra posición contra la industria — Año 11 real
+## Lo que está cargado hoy (Año 11 oficial)
 
-| | Nosotros | Promedio industria |
-|---|---|---|
-| Margen bruto | 47,3% | 47,7% |
-| Margen operativo | 17,5% | 17,2% |
-| Margen neto | 10,9% | 10,7% |
-| **Cobertura de intereses** | **9,14** | 9,55 |
-| **Deuda / activos** | **0,33** | 0,35 |
-| **Ratio de riesgo de impago** | **4,33 (Bajo)** | 4,57 |
-| Ratio corriente | 3,03 | 3,51 |
-| Días de inventario | 21 | 20 |
-
-Calificación obtenida en el Año 11: **A−**. El set que está cargado hoy para el Año 12
-proyecta **A**.
-
-**El umbral que importa: el ratio de riesgo de impago tiene que quedar por encima de 4,00.**
-Hoy tenemos margen de sobra, así que la inversión de capital no está limitada.
-
-## Dividendos — fuimos de los pocos que pagaron
-
-| Empresa | Dividendo | Payout |
-|---|---|---|
-| C | $1,25 | 42,1% |
-| D | $1,00 | 54,9% |
-| **H (nosotros)** | **$1,00** | **40,3%** |
-| A, B, E, F, G | $0,00 | 0% |
-
-Cinco de ocho empresas no pagaron nada. Nosotros sí, y el precio de la acción cerró en
-**$34,44** contra una meta de $40,00. **Es el único de los cinco objetivos que no cumplimos
-en el Año 11.**
-
-## Las dos mecánicas que ya están medidas
-
-### 1. El dividendo NO afecta la calificación crediticia
-
-Se midió con $0, con $0,50 y con $1,00 por acción: **el ratio quedó idéntico (4,77)** en
-los tres casos. La creencia de que el dividendo consume el flujo que define el ratio
-resultó falsa.
-
-Lo que sí hace: **mejora el ROE**, porque reduce los fondos propios sobre los que se
-mide, sin tocar el EPS.
-
-### 2. La recompra de acciones paga en el año en curso
-
-Reduce las acciones en circulación, así que sube el EPS y el ROE **en el ejercicio
-actual** — a diferencia de casi todo lo demás del juego, que rinde al año siguiente.
-
-El tope lo fija el simulador cada año y varía: en el Año 11 eran 200 mil acciones.
-Fijate cuál es el tope de este año en la pantalla.
-
-## Lo que NO funciona — ya probado
-
-| Probado | Resultado |
+| Campo | Valor |
 |---|---|
-| Prepagar deuda | Amortizar antes no mejora el EPS del año en curso |
-| Emitir acciones | Diluye EPS y ROE, los dos indicadores que peleamos |
-| Comprar mejoras de equipo | Rinden al año siguiente, no en el de la compra |
+| Préstamos a 1, 5 y 10 años | 0 (tasas 7,0% / 7,5% / 8,0%) |
+| Emisión de acciones | 0 (máximo 5.000 mil a $30) |
+| Dividendo por acción | $0,00 (el Año 10 pagó $1,00) |
+| Recompra de acciones | 0 (**máximo 200 mil** a $30) |
+| Prepago de deuda | Nada |
 
-## Datos del Año 12
-
-### Tasas de interés (bajaron bastante)
-
-| | Año 11 | **Año 12** |
-|---|---|---|
-| Préstamo 1 año | 7,00% | **5,60%** |
-| Préstamo 5 años | 7,50% | **6,10%** |
-| Préstamo 10 años | 8,00% | **6,60%** |
-| Sobregiro | 9,00% | **7,60%** |
-| Rendimiento de la caja | 2,00% | **1,60%** |
-
-### Deuda vigente
-
-| Préstamo | Saldo | Tasa | Plazo |
-|---|---|---|---|
-| #1 | $12.000 | 8,2% | 10 años |
-| #2 | $69.300 | 7,7% | 10 años |
-
-Amortización programada del Año 12: **$15.900 mil**.
-
-**El crédito está más barato que nuestra deuda vieja.** Vale mirar si conviene refinanciar
-el préstamo #1, que está al 8,2% cuando hoy se consigue al 6,60%.
-
-## Lo que el Año 12 proyecta hoy, sin tocar nada
-
-| | Proyectado | Meta del Año 12 |
-|---|---|---|
-| Ingresos totales | $481.253 mil | — |
-| Beneficio neto | $59.970 mil | — |
-| **Ganancia por acción** | **$3,00** | $3,00 |
-| **Rentabilidad sobre el capital** | **22,2%** | 22,0% |
-| **Calificación crediticia** | **A** | B+ |
-| Calificación de imagen | 68 | 72 |
-| Caja al cierre | +$71.232 mil | — |
-
-> **Dos de estos números están apenas arriba de la meta y uno está abajo.** La ganancia
-> por acción proyecta exactamente $3,00 contra una meta de $3,00: sin ningún margen.
->
-> Y el año pasado el resultado real vino 12% por debajo de lo proyectado. Quedarse justo
-> en la meta probablemente signifique no cumplirla.
-
-Hay **$71 millones de caja** proyectados. Esa es tu decisión más grande: qué se hace con
-esa plata.
-
-## Las decisiones concretas de mañana
-
-### Pantalla 10 — Finanzas y tesorería
-
-| Campo | Cargado hoy |
+| Proyección sin tocar nada | Valor |
 |---|---|
-| Préstamo a 1 año (5,60%) | $0 |
-| Préstamo a 5 años (6,10%) | $0 |
-| Préstamo a 10 años (6,60%) | $0 |
-| Emisión de acciones | 0 |
-| Recompra de acciones | 0 |
-| Pago anticipado de deuda | Nada |
-| **Dividendo por acción** | **$0,00** |
-
-El Año 11 pagó $1,00. Hoy está en cero: es una decisión a tomar, no un default.
-
-**Tu pantalla se carga última.** Hasta que no estén las otras nueve, los números sobre
-los que decidís no son los definitivos.
-
-## Qué leer
-
-| Archivo | Qué mirar |
-|---|---|
-| **FIR Ano11 - informe de industria completo.pdf** | Página 5 completa: cuenta de resultados, balance y estadísticas financieras de las 8 empresas, lado a lado |
-| **Resumen de decisiones Ano12.pdf** | Los ocho campos de tu pantalla |
+| Caja al cierre | $53.933 mil |
+| Amortización programada | $15.900 mil |
+| Patrimonio | $255,7 M (mínimo $100 M) |
+| Cobertura de intereses | 8,49 |
+| Deuda / activos | 0,31 |
+| **Ratio de riesgo de impago** | **4,07** (umbral 4,00 para A−) |
 
 ## Con qué llegar a la reunión
 
-1. Una recomendación de **dividendo**, sabiendo que sube el ROE y no toca el crédito.
-2. Una recomendación de **recompra**, que es la palanca que paga en el año.
-3. Tu lectura sobre **qué hacer con la caja**: financiar la expansión de capacidad que
-   propone Mantenimiento, o conservarla.
-4. Una postura sobre el **precio de la acción**, que es nuestro objetivo más flojo. Depende
-   del crecimiento de ingresos, EPS, ROE, calificación crediticia y dividendos declarados.
-
-## Una nota sobre tu carga
-
-Tenés dos roles: Finanzas y Analista de Datos. Son **los dos extremos de la secuencia** —
-las proyecciones competitivas abren la ronda y tu pantalla la cierra. Si en algún momento
-se complica, lo que conviene mover a otra persona es Analista de Datos: son 10 casillas
-que se llenan leyendo el reporte de inteligencia competitiva y no requieren criterio
-financiero.
+1. **Dividendo y recompra**, cargados al final y leyendo el ratio.
+2. **Cuánta inversión de capital aguanta el ratio** si Mant. y Facility propone mejoras o
+   equipo. Ese número hay que tenerlo antes de decidir.
+3. Si hace falta deuda, a qué plazo y qué le hace al ratio.
